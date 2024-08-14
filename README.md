@@ -24,7 +24,6 @@ This project automates the creation of a specialized speech-to-text dataset from
 - `pydub` for processing audio files
 - `whisper` or `espeak-ng` for speech recognition
 - `phonemizer` for phoneme conversion (optional)
-- TTS models and frameworks such as Tacotron, FastSpeech, or WaveNet (for fine-tuning)
 
 ## How It Works
 
